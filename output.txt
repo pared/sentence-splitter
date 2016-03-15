@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+<p s xml:id="1-p">
+<s xml:id="1-1-s">Do piątku około 1700 geografów z 66 państw świata będzie dyskutować nad wkładem tej dyscypliny w rozwiązywanie globalnych problemów.</s>
+<s xml:id="1-2-s">W poniedziałek w Auditorium Maximum UJ uczestników sesji plenarnej przywitali m.in. prezydent Krakowa Jacek Majchrowski i przewodniczący Międzynarodowej Unii Geograficznej, prof. Władimir Kołosow.</s>
+<s xml:id="1-3-s">Wśród bloków tematycznych konferencji są różnorodne kwestie: od zmian klimatycznych na świecie i ochrony środowiska po demografię, zagospodarowanie przestrzenne i wyżywienie ludności.</s>
+<s xml:id="1-4-s">"Oczywiście zmiany klimatyczne są bardzo modnym i nośnym tematem i będzie to jeden z czołowych tematów sesji.</s>
+<s xml:id="1-5-s">Ale geografia to bardzo szerokie spektrum badań - od geografii fizycznej przez społeczną po gospodarczą.</s>
+<s xml:id="1-6-s">Geografowie czynnie uczestniczą w tworzeniu założeń polityki, także w naszym kraju" - powiedział PAP współorganizator sesji, prof. Marek Degórski, dyrektor Instytutu Geografii i Gospodarki Przestrzennej PAN.</s>
+<s xml:id="1-7-s">Jako przykład społecznej roli geografów podał, że opracowali oni koncepcję zagospodarowania przestrzennego kraju do roku 2030, która została już przyjęta przez Sejm i podpisana przez prezydenta.</s>
+<s xml:id="1-8-s">"Geografowie są też ekspertami w przygotowywaniu strategii sektorowych, dotyczących np. rozwoju rolnictwa czy polityki regionalnej.</s>
+<s xml:id="1-9-s">To są rzeczy bardzo istotne z punktu widzenia funkcjonowania gospodarki" - podkreślił prof. Degórski.</s>
+<s xml:id="1-10-s">Jak zaznaczył, politycy nie zawsze chętnie słuchają ekspertów z tej dziedziny, ale - jego zdaniem - na ogół wykorzystują oni "bardzo wiele treści" badań geograficznych.</s>
+<s xml:id="1-11-s">Na to, że jednym z ważniejszych tematów sesji, jest urbanistyka, zwrócił także uwagę w rozmowie z PAP przewodniczący Polskiego Towarzystwa Geograficznego, prof. Antoni Jackowski.</s>
+<s xml:id="1-12-s">"W tej chwili jednym z najważniejszych naszych wyzwań jest zachowanie ładu przestrzennego.</s>
+<s xml:id="1-13-s">(...) (W Polsce) fascynujemy się ciągle wieżowcami - bo jesteśmy opóźnieni o kilkadziesiąt lat - ale musimy powiedzieć w pewnym momencie stop bezładnej zabudowie" - uważa prof. Jackowski.</s>
+<s xml:id="1-14-s">Przypomniał, że ostatnio polscy planiści, geografowie i inni naukowcy wystosowali list otwarty do premiera RP, w którym postulowali, aby kwestia zagospodarowania przestrzennego stała się dla kraju priorytetem.</s>
+<s xml:id="1-15-s">Prof. Jackowski zauważył, że powierzenie naszemu krajowi roli gospodarza krakowskiego zjazdu wskazuje na to, że "polscy geografowie liczą się w świecie".</s>
+<s xml:id="1-16-s">W poniedziałek podczas otwarcia konferencji wręczono odznaczenia laureatom zakończonej właśnie w Krakowie XI Międzynarodowej Olimpiady Geograficznej z udziałem 144 uczniów z 36 krajów.</s>
+<s xml:id="1-17-s">Przyznano 12 złotych medali.</s>
+<s xml:id="1-18-s">Zwycięzcą został Amerykanin James Mullen.</s>
+<s xml:id="1-19-s">Kongresy i konferencje Międzynarodowej Unii Geograficznej są światowym forum dyskusji specjalistów z różnych dyscyplin geograficznych oraz przedstawicieli nauk pokrewnych.</s>
+<s xml:id="1-20-s">Dotychczas światowa konferencja geografów była w Polsce organizowana tylko raz, w 1934 r., czyli 80 lat temu.</s>
+</p>
+</text>
